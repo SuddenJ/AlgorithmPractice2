@@ -2,3 +2,4 @@
 using AlgorithmPractice;
 
 FizzBuzz.Run();
+ReverseArrayV1.Run();
